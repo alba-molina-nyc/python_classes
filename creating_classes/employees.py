@@ -17,4 +17,6 @@ class Engineer(Employee):
         return super().compute_salary()
 
 
-""" when you ask for the employee's salaries, they will be computed according to the classes from which the objects were made, due to the principles of the inheritance search"""
+""" superclasses are listed in parentheses in a class header
+
+when you ask for the employee's salaries, they will be computed according to the classes from which the objects were made, due to the principles of the inheritance search"""
