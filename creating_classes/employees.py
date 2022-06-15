@@ -5,7 +5,7 @@ class Employee:
         pass
     def promote(self):
         pass
-    def retite(self):
+    def retire(self):
         pass
 
 
